@@ -1,5 +1,6 @@
 # Social Network
 This a social network platform made as a school project.
+It uses Svelte for the frontend and Go for the backend.
 
 # Features 
    - Groups
