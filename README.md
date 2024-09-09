@@ -1,4 +1,15 @@
-# TERE POISID
+# Social Network
+This a social network platform made as a school project.
+
+# Features 
+   - Groups
+   - Live Chats between followers and group chats
+   - Following
+   - Posts
+   - Comments
+   - Password encryption
+
+# How to run
 
 Run this command and then go to localhost:3000
 
@@ -8,6 +19,3 @@ docker compose up
 
 http://localhost:3000
 
-[Exercise](https://github.com/01-edu/public/tree/master/subjects/social-network)
-
-[Audit Req](https://github.com/01-edu/public/tree/master/subjects/social-network/audit)
